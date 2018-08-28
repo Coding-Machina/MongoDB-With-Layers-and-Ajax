@@ -1,0 +1,17 @@
+C:\Users\harikrishnan.s\source\repos\BankManagement\BM.EF\bin\Debug\BM.EF.dll.config
+C:\Users\harikrishnan.s\source\repos\BankManagement\BM.EF\bin\Debug\BM.EF.dll
+C:\Users\harikrishnan.s\source\repos\BankManagement\BM.EF\bin\Debug\BM.EF.pdb
+C:\Users\harikrishnan.s\source\repos\BankManagement\BM.EF\bin\Debug\DnsClient.dll
+C:\Users\harikrishnan.s\source\repos\BankManagement\BM.EF\bin\Debug\MongoDB.Bson.dll
+C:\Users\harikrishnan.s\source\repos\BankManagement\BM.EF\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\harikrishnan.s\source\repos\BankManagement\BM.EF\bin\Debug\MongoDB.Driver.dll
+C:\Users\harikrishnan.s\source\repos\BankManagement\BM.EF\bin\Debug\System.Buffers.dll
+C:\Users\harikrishnan.s\source\repos\BankManagement\BM.EF\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\harikrishnan.s\source\repos\BankManagement\BM.EF\bin\Debug\DnsClient.xml
+C:\Users\harikrishnan.s\source\repos\BankManagement\BM.EF\bin\Debug\MongoDB.Bson.xml
+C:\Users\harikrishnan.s\source\repos\BankManagement\BM.EF\bin\Debug\MongoDB.Driver.xml
+C:\Users\harikrishnan.s\source\repos\BankManagement\BM.EF\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\harikrishnan.s\source\repos\BankManagement\BM.EF\obj\Debug\BM.EF.csproj.CoreCompileInputs.cache
+C:\Users\harikrishnan.s\source\repos\BankManagement\BM.EF\obj\Debug\BM.EF.csproj.CopyComplete
+C:\Users\harikrishnan.s\source\repos\BankManagement\BM.EF\obj\Debug\BM.EF.dll
+C:\Users\harikrishnan.s\source\repos\BankManagement\BM.EF\obj\Debug\BM.EF.pdb
